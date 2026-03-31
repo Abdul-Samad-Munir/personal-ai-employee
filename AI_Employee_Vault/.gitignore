@@ -1,0 +1,20 @@
+# Secrets — NEVER commit these
+.env
+credentials.json
+token.json
+*.key
+*.pem
+
+# Logs (optional to exclude)
+*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# Watcher state
+*.pid
