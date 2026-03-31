@@ -9,5 +9,25 @@
     ],
     "approval_status": "pending_human",
     "result": "success"
+  },
+  {
+    "timestamp": "2026-04-01T01:08:25.552166",
+    "action_type": "linkedin_draft_created",
+    "actor": "linkedin_poster",
+    "description": "LinkedIn post queued for approval",
+    "files_affected": [
+      "Pending_Approval/LINKEDIN_20260401_010825.md"
+    ],
+    "approval_status": "pending_human",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-04-01T01:10:24.488743",
+    "action_type": "linkedin_posted",
+    "actor": "linkedin_poster",
+    "description": "Post published to LinkedIn",
+    "files_affected": [],
+    "approval_status": "pending_human",
+    "result": "success"
   }
 ]
