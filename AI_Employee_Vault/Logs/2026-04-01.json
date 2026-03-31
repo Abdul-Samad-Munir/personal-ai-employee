@@ -1,0 +1,13 @@
+[
+  {
+    "timestamp": "2026-04-01T00:09:00.522678",
+    "action_type": "linkedin_draft_created",
+    "actor": "linkedin_poster",
+    "description": "LinkedIn post queued for approval",
+    "files_affected": [
+      "Pending_Approval/LINKEDIN_20260401_000900.md"
+    ],
+    "approval_status": "pending_human",
+    "result": "success"
+  }
+]
